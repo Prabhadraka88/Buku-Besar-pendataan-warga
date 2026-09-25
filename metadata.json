@@ -1,0 +1,6 @@
+{
+  "name": "Buku RT Chain",
+  "description": "Buku besar kependudukan RT berbasis blockchain untuk pencatatan warga asli, pendatang, dan kontrak secara transparan, aman, dan terdesentralisasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
